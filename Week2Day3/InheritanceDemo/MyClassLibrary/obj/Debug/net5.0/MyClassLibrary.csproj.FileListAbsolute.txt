@@ -1,0 +1,11 @@
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.deps.json
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.dll
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\bin\Debug\net5.0\ref\MyClassLibrary.dll
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.pdb
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.AssemblyInfo.cs
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.dll
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\obj\Debug\net5.0\ref\MyClassLibrary.dll
+C:\Data\To Sync\OneDrive - Aspect Software\Teaching\C# Track\Programs\Week2Day3\InheritanceDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.pdb
