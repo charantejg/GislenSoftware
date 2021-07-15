@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\bin\Debug\net5.0\DemoW2D4.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\bin\Debug\net5.0\DemoW2D4.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\bin\Debug\net5.0\DemoW2D4.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\bin\Debug\net5.0\DemoW2D4.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\bin\Debug\net5.0\DemoW2D4.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\bin\Debug\net5.0\ref\DemoW2D4.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\bin\Debug\net5.0\DemoW2D4.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\DemoW2D4.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\DemoW2D4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\DemoW2D4.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\DemoW2D4.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\DemoW2D4.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\DemoW2D4.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\ref\DemoW2D4.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\DemoW2D4.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day4\DemoW2D4\DemoW2D4\obj\Debug\net5.0\DemoW2D4.genruntimeconfig.cache
