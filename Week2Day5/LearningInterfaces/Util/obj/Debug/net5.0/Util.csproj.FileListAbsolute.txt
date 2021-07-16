@@ -1,0 +1,12 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\bin\Debug\net5.0\Util.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\bin\Debug\net5.0\Util.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\bin\Debug\net5.0\ref\Util.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\bin\Debug\net5.0\Util.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\obj\Debug\net5.0\Util.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\obj\Debug\net5.0\Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\obj\Debug\net5.0\Util.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\obj\Debug\net5.0\Util.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\obj\Debug\net5.0\Util.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\obj\Debug\net5.0\Util.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\obj\Debug\net5.0\ref\Util.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week2Day5\LearningInterfaces\Util\obj\Debug\net5.0\Util.pdb
