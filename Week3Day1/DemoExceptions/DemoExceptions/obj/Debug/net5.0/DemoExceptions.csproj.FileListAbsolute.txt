@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\bin\Debug\net5.0\DemoExceptions.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\bin\Debug\net5.0\DemoExceptions.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\bin\Debug\net5.0\DemoExceptions.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\bin\Debug\net5.0\DemoExceptions.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\bin\Debug\net5.0\DemoExceptions.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\bin\Debug\net5.0\ref\DemoExceptions.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\bin\Debug\net5.0\DemoExceptions.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\DemoExceptions.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\DemoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\DemoExceptions.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\DemoExceptions.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\DemoExceptions.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\DemoExceptions.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\ref\DemoExceptions.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\DemoExceptions.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day1\DemoExceptions\DemoExceptions\obj\Debug\net5.0\DemoExceptions.genruntimeconfig.cache
