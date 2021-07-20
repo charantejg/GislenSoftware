@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\bin\Debug\net5.0\ref\LinqDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\ref\LinqDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\week3Day2\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.genruntimeconfig.cache
