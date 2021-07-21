@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\ref\DelegatesDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\ref\DelegatesDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.genruntimeconfig.cache

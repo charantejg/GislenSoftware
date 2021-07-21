@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\bin\Debug\net5.0\GenericsDelegateEvent.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\bin\Debug\net5.0\GenericsDelegateEvent.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\bin\Debug\net5.0\GenericsDelegateEvent.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\bin\Debug\net5.0\GenericsDelegateEvent.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\bin\Debug\net5.0\GenericsDelegateEvent.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\bin\Debug\net5.0\ref\GenericsDelegateEvent.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\bin\Debug\net5.0\GenericsDelegateEvent.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\GenericsDelegateEvent.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\GenericsDelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\GenericsDelegateEvent.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\GenericsDelegateEvent.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\GenericsDelegateEvent.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\GenericsDelegateEvent.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\ref\GenericsDelegateEvent.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\GenericsDelegateEvent.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Wek3Day3\GenericsDelegateEvent\GenericsDelegateEvent\obj\Debug\net5.0\GenericsDelegateEvent.genruntimeconfig.cache
