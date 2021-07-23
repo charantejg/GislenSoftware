@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\TasksDemo.cs.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\TasksDemo.cs.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\TasksDemo.cs.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\TasksDemo.cs.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\TasksDemo.cs.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\ref\TasksDemo.cs.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\TasksDemo.cs.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\TasksDemo.cs.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\TasksDemo.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\TasksDemo.cs.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\TasksDemo.cs.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\TasksDemo.cs.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\TasksDemo.cs.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ref\TasksDemo.cs.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\TasksDemo.cs.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\TasksDemo.cs.genruntimeconfig.cache

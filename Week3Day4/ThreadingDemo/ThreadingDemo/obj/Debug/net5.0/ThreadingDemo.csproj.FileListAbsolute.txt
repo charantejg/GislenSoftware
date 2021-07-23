@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\bin\Debug\net5.0\ref\ThreadingDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ref\ThreadingDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\ThreadingDemo\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.genruntimeconfig.cache

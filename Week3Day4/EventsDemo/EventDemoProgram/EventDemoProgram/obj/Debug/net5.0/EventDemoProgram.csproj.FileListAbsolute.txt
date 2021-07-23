@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\bin\Debug\net5.0\EventDemoProgram.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\bin\Debug\net5.0\EventDemoProgram.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\bin\Debug\net5.0\EventDemoProgram.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\bin\Debug\net5.0\EventDemoProgram.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\bin\Debug\net5.0\EventDemoProgram.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\bin\Debug\net5.0\ref\EventDemoProgram.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\bin\Debug\net5.0\EventDemoProgram.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\EventDemoProgram.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\EventDemoProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\EventDemoProgram.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\EventDemoProgram.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\EventDemoProgram.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\EventDemoProgram.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\ref\EventDemoProgram.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\EventDemoProgram.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day4\EventsDemo\EventDemoProgram\EventDemoProgram\obj\Debug\net5.0\EventDemoProgram.genruntimeconfig.cache

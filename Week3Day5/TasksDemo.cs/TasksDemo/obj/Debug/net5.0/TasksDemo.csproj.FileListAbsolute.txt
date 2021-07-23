@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\bin\Debug\net5.0\TasksDemo.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\bin\Debug\net5.0\TasksDemo.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\bin\Debug\net5.0\TasksDemo.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\bin\Debug\net5.0\TasksDemo.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\bin\Debug\net5.0\TasksDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\bin\Debug\net5.0\ref\TasksDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\bin\Debug\net5.0\TasksDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\TasksDemo.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\TasksDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\TasksDemo.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\TasksDemo.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\TasksDemo.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\TasksDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\ref\TasksDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\TasksDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo\obj\Debug\net5.0\TasksDemo.genruntimeconfig.cache

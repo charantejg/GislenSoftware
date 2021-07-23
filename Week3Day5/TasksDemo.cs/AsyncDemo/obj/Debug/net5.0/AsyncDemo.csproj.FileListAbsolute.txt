@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\bin\Debug\net5.0\AsyncDemo.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\bin\Debug\net5.0\AsyncDemo.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\bin\Debug\net5.0\AsyncDemo.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\bin\Debug\net5.0\AsyncDemo.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\bin\Debug\net5.0\AsyncDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\bin\Debug\net5.0\ref\AsyncDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\bin\Debug\net5.0\AsyncDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\AsyncDemo.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\AsyncDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\AsyncDemo.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\AsyncDemo.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\AsyncDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\ref\AsyncDemo.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\AsyncDemo.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\AsyncDemo\obj\Debug\net5.0\AsyncDemo.genruntimeconfig.cache

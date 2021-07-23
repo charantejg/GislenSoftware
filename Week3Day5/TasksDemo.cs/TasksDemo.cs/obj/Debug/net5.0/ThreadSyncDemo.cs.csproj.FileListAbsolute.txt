@@ -1,0 +1,16 @@
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\ThreadSyncDemo.cs.exe
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\ThreadSyncDemo.cs.deps.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\ThreadSyncDemo.cs.runtimeconfig.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\ThreadSyncDemo.cs.runtimeconfig.dev.json
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\ThreadSyncDemo.cs.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\ref\ThreadSyncDemo.cs.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\bin\Debug\net5.0\ThreadSyncDemo.cs.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ThreadSyncDemo.cs.csprojAssemblyReference.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ThreadSyncDemo.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ThreadSyncDemo.cs.AssemblyInfoInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ThreadSyncDemo.cs.AssemblyInfo.cs
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ThreadSyncDemo.cs.csproj.CoreCompileInputs.cache
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ThreadSyncDemo.cs.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ref\ThreadSyncDemo.cs.dll
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ThreadSyncDemo.cs.pdb
+C:\Data\projects\learning\GislenSoftwateLiveCode\Week3Day5\TasksDemo.cs\TasksDemo.cs\obj\Debug\net5.0\ThreadSyncDemo.cs.genruntimeconfig.cache
