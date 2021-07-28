@@ -1,0 +1,35 @@
+
+
+html
+{
+    height: 100%;
+}
+
+body
+{
+    color: white;
+    background-image: linear-gradient(rgb(64, 153, 86), rgb(74, 202, 159), rgb(97, 97, 195));
+    background-repeat: no-repeat;
+
+}
+
+.myimage
+{
+    margin-top: 40px;
+}
+
+.btn-outline
+{
+    color: white;
+    border-color: blueviolet;
+}
+
+.btn-outline:hover
+{
+    background-color:yellowgreen;
+}
+.jumbotron
+{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}

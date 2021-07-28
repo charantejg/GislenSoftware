@@ -1,0 +1,83 @@
+header
+{
+    
+    height:140px ;
+    text-align: center;
+
+}
+nav
+{
+   
+    background-color:rgba(49, 49, 49, 0.185);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+main
+{
+  
+    height: 700px;
+    text-align: center;
+    color: white;
+}
+footer
+{
+  
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.301);
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+.MyContainer
+{
+  margin: auto;
+  width: 1024px;
+  }
+.logo
+{
+    width: 120px;
+    height: 120px;
+    
+}
+h1
+{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body
+{
+    background-color:rgb(133, 130, 130);
+    background-image: url(images/background.jpg);
+    background-size: cover;
+}
+.Anchor
+{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.HyperLinks
+{
+    padding-top: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.Map
+{
+    padding-top: 10px;
+}
