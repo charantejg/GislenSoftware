@@ -4,6 +4,7 @@ let myBook =  {
      noOfPages: 500
 }
 
+
 myBook.author = 'Jay'
 
 console.log(`${myBook.title} by ${myBook.author}`)

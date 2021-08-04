@@ -1,19 +1,18 @@
-const notes = []
+'use strict';
 
-document.querySelector('#createNote').addEventListener('click',
-function(e){
+const request = new XMLHttpRequest()
 
-   // console.log('test')
-    notes.push({title:'My first task of the day' })
-
-    console.log(notes)
-
-    localStorage.setItem('mynote',JSON.stringify(notes))
-
-    localStorage.removeItem('mynote')
-
-    const mynewInfo = localStorage.get('mynote')
-
-    localStorage.clear()
-
+request.addEventListener('readystatechange',(e)=>{
+    if(e.target.readyState === 4)
+    {
+        const data = JSON.parse(e.target.responseText)
+        console.log(data)
+    }
 })
+
+
+request.open('GET','https://reqres.in/api/users/2')
+request.send()
+
+
+
