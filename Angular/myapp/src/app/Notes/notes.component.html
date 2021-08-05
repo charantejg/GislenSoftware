@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<div class="row">
+  <div class="col-12">
+    <hr>
+    <h3>This is my new Notes Section</h3>
+    <p>{{generateTitle()}}</p>
+  </div>
+</div>
+<div class="row">
+  <button [disabled]="!isActive" class="btn btn-primary" >Add new Notes</button>
+</div>
+<div class="row">
+  <div class="col-12">
+    <p [innerText]="description"></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <img [src]="notesPath">
+  </div>
+</div>
+
+
+
+
