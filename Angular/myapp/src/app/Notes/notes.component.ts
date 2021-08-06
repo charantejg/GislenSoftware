@@ -9,8 +9,10 @@ export class NotesComponent
 {
   title:string = "my  title"
   isActive = false
-  description = "This is my description"
+  description = "Default Description"
   notesPath ="https://image.shutterstock.com/image-illustration/small-yellow-compact-car-260nw-394558741.jpg"
+  newFlag = false
+  myNotes = ['Notes 1', 'Notes 2', 'Notes 3']
 
   constructor()
   {
@@ -23,6 +25,17 @@ export class NotesComponent
  generateTitle()
  {
    this.title = "This is a new title"
+ }
+
+ onExecute()
+ {
+   this.description = 'The description is changed by button click';
+   this.newFlag = true;
+ }
+
+ OnUpdate(event:any)
+ {
+   this.description = event.target.value;
  }
 
 }

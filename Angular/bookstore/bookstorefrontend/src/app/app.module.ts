@@ -1,22 +1,24 @@
 import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { NotesComponent } from './Notes/notes.component';
-import { TodosComponent } from './todos/todos.component';
+import { HeaderComponent } from './header/header.component';
+import { BooksComponent } from './books/books.component';
+import { ShoppingComponent } from './shopping/shopping.component';
+import { BookitemComponent } from './books/bookitem/bookitem.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    NotesComponent,
-    TodosComponent
+    HeaderComponent,
+    BooksComponent,
+    ShoppingComponent,
+    BookitemComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    FormsModule
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

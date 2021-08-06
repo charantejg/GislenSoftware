@@ -22,6 +22,38 @@
   </div>
 </div>
 
+<div class="row">
+  <button (click)="onExecute()"  class="btn btn-primary">Change Description</button>
+</div>
+<br>
+<div class="row">
+  <input type="text" name="myText" id="" (input)="OnUpdate($event)">
+</div>
+<br>
+<!--two way binding-->
+<div class="row">
+  <input type="text" [(ngModel)]="description" >
+</div>
+
+<!-- Display new paragraph using ngIf Structural Directive-->
+<p *ngIf="newFlag; else notactive">User has clicked the Change description button!</p>
+<ng-template #notactive>
+ <p>User has not clicked the Change description button! </p>
+</ng-template>
+
+
+
+<div *ngFor="let item of myNotes">
+   <h4>
+     {{item}}
+   </h4>
+</div>
+
+<!-- Attribute Directives-->
+<p  [ngStyle]="{background: 'blue'}" > This text color is changed by Angular</p>
+
+
+
 
 
 
