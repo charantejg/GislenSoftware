@@ -1,0 +1,34 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <p>Add new Book or Eook!</p>
+      <label>Book Name</label>
+      <input type="text" class="form-control" [(ngModel)]="bookName">
+      <label>Book Content</label>
+      <input type="text" class="form-control" [(ngModel)]="bookContent">
+      <br>
+      <button
+        class="btn btn-primary"
+        (click)="onAddBook()">Add Book</button>
+      <button
+        class="btn btn-primary"
+        (click)="onAddEbook()">Add Ebook </button>
+    </div>
+  </div>
+  <hr>
+  <div class="row">
+    <div class="col-xs-12">
+      <div
+        class="panel panel-default"
+        *ngFor="let element of bookElements">
+        <div class="panel-heading">{{ element.name }}</div>
+        <div class="panel-body">
+          <p>
+            <strong *ngIf="element.type === 'book'" style="color: red">{{ element.content }}</strong>
+            <em *ngIf="element.type === 'ebook'">{{ element.content }}</em>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

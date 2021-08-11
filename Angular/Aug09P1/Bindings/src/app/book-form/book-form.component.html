@@ -1,0 +1,14 @@
+<div class="row">
+  <div class="col-12">
+    <h3>Add a new Book</h3>
+    <label>Book Name</label>
+    <input type="text" class="form-control" [(ngModel)]="bookName" >
+
+    <label>Book Description</label>
+    <input type="text" class="form-control" [(ngModel)]="bookDesc" >
+    <br>
+    <button class="btn btn-primary" (click)="onAddBook()">
+      Add Book
+    </button>
+  </div>
+</div>

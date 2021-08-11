@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<div class="container">
+  <app-book-form (bookCreated)="OnBookCreated($event)" ></app-book-form>
+
+  <div class="row">
+    <div class="col-12">
+     <div class="panel panel-default">
+         <app-book-display  *ngFor="let item of bookList"
+           [bookElement]="item"></app-book-display>
+     </div>
+    </div>
+  </div>
+</div>
