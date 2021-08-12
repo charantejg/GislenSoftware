@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+        <app-new-account ></app-new-account>
+        <!--(accountCreation)="OnaccountCreation($event)-->
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+       <app-account-display
+       *ngFor="let item of studentList; let id=index"
+       [account]="item"
+       [id]="id"
+       (statusChange)="onStatusChange($event)"></app-account-display>
+    </div>
+  </div>
+</div>
