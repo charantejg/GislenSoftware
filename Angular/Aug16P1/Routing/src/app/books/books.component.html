@@ -1,0 +1,31 @@
+
+
+<form (ngSubmit)="onSubmit(myform)" #myform="ngForm" >
+
+  <div ngModelGroup="bookData"  #bookData="ngModelGroup">
+    <div class="form-group">
+      <label for="">Title</label>
+      <input type="text" name="title" class="form-control" ngModel
+      required>
+
+    </div>
+    <div class="form-group">
+      <label for="">Author Email</label>
+      <input type="text" name="email" class="form-control" ngModel
+      required
+      email>
+    </div>
+
+    <div class="radio" *ngFor="let item of booktype">
+      <label>
+        <input type="radio" name="booktype" ngModel [value]=item
+        > {{item}}
+      </label>
+    </div>
+  </div>
+
+  <button type="submit" class="btn btn-primary"
+  [disabled] ="!myform.valid">Submit</button>
+
+</form>
+

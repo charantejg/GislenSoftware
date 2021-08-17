@@ -1,0 +1,44 @@
+<p>home works!</p>
+
+<button class="btn btn-primary" (click)="onLoadBooks()" >Load Books</button>
+
+<br>
+<br>
+
+
+<form [formGroup]="userForm" (ngSubmit)="onAddUser()">
+
+  <div class="form-group">
+    <div class="row">
+      <div class="col-12">
+        {{agentName | uppercase}}
+      </div>
+    </div>
+    </div>
+
+  <div class="form-group">
+    <div class="row">
+      <div class="col-12">
+        <label for="username">User Name</label>
+      </div>
+    </div>
+
+    <input type="text" name="name"
+    formControlName="name">
+    <span *ngIf="!userForm.get('name').valid && userForm.get('name').touched" class="help-block">This name is required</span>
+
+  </div>
+  <div class="form-group">
+    <div class="row">
+      <div class="col-12">
+        <label for="email">Email</label>
+      </div>
+    </div>
+
+    <input type="text" name="email" id="email"
+    formControlName="email">
+  </div>
+  <br><br>
+  <button class="btn btn-primary" type="submit">Add User</button>
+
+</form>
