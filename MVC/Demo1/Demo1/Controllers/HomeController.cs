@@ -7,6 +7,8 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
+using ILogger = NLog.ILogger;
+using LogLevel = NLog.LogLevel;
 
 namespace Demo1.Controllers
 {
@@ -14,9 +16,12 @@ namespace Demo1.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly NLog.ILogger _nlogger;
+
+        public HomeController(ILogger<HomeController> logger, ILogger nlogger)
         {
             _logger = logger;
+            _nlogger = nlogger;
         }
 
         public IActionResult Get(int id)
@@ -41,7 +46,10 @@ namespace Demo1.Controllers
         [HttpPost]
         public IActionResult HeaderDemo([FromHeader] string token)
         {
+            _nlogger.Log(LogLevel.Debug, "This is sample log");
             return Ok("Received the token " + token);
+
+
         }
 
         #endregion
