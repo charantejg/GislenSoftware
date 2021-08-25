@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using OnlineBookShop.Data;
 
 namespace OnlineBookShop.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210824070911_test2")]
+    partial class test2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -25,7 +27,7 @@ namespace OnlineBookShop.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("BookCategoryId")
+                    b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
                     b.Property<double>("Price")
@@ -38,7 +40,7 @@ namespace OnlineBookShop.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("BookCategoryId");
+                    b.HasIndex("CategoryId");
 
                     b.ToTable("Books");
                 });
@@ -60,13 +62,13 @@ namespace OnlineBookShop.Migrations
 
             modelBuilder.Entity("OnlineBookShop.Models.Book", b =>
                 {
-                    b.HasOne("OnlineBookShop.Models.BookCategory", "BookCategory")
+                    b.HasOne("OnlineBookShop.Models.BookCategory", "Category")
                         .WithMany()
-                        .HasForeignKey("BookCategoryId")
+                        .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("BookCategory");
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }

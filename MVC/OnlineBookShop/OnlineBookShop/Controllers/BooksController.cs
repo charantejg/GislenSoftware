@@ -4,7 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using OnlineBookShop.Business;
 using OnlineBookShop.Data;
 using OnlineBookShop.Models;
 
@@ -20,16 +22,64 @@ namespace OnlineBookShop.Controllers
             
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult>  Index(
+            string sortOrder, 
+            string searchText,
+            int? pageNumber)
         {
-            IEnumerable<Book> bookList = _db.Books;
-            
-            return View(bookList);
+            ViewData["TitleSortParam"] = sortOrder =="Title" ? "title_desc" : "title_asc";
+            ViewData["PriceSortParam"] = sortOrder == "Price" ? "price_desc" : "price_asc";
+            ViewData["currentSearch"] = searchText;
+
+            var bookList = from books in _db.Books select books;
+
+            if (!string.IsNullOrEmpty(searchText))
+            {
+                bookList = bookList.Where(x => x.Title.ToLower().
+                    Contains(searchText.ToLower()));
+            }
+
+            switch (sortOrder)
+            {
+                case "title_asc":
+                    bookList = bookList.OrderBy(x => x.Title);
+                    break;
+                case "title_desc":
+                    bookList = bookList.OrderByDescending(x => x.Title);
+                    break;
+                case "price_asc":
+                    bookList = bookList.OrderBy(x => x.Price);
+                    break;
+                case "price_desc":
+                    bookList = bookList.OrderByDescending(x => x.Price);
+                    break;
+                default:
+                    bookList = bookList.OrderBy(x => x.Id);
+                    break;
+            }
+
+            int pageSize = 5;
+            //return View(await bookList.ToListAsync());
+            return View(Pagination<Book>.Display(bookList, pageNumber ?? 1, pageSize));
+
         }
+
 
         public IActionResult Create()
         {
+            // get the book categories from Db
+            IEnumerable<SelectListItem> myCategories = _db.BookCategories.Select(x=> 
+                new SelectListItem
+                {
+                    Text = x.CategoryName,
+                    Value =  x.Id.ToString()
+                });
+
+               ViewBag.myDropdown = myCategories;
+            
+            
             return View();
+
         }
 
         [HttpPost]
@@ -79,6 +129,19 @@ namespace OnlineBookShop.Controllers
 
         }
 
+        public IActionResult Delete(int? id)
+        {
+            var objBook = _db.Books.Find(id);
+            if (objBook == null)
+            {
+                return NotFound();
+            }
+
+            _db.Books.Remove(objBook);
+            _db.SaveChanges();
+            
+            return RedirectToAction("Index");
+        }
         
 
     }

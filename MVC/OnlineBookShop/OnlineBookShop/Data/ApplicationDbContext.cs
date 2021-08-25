@@ -14,7 +14,22 @@ namespace OnlineBookShop.Data
 
         }
         public DbSet<Book> Books { get; set; }
-        
+        public DbSet<BookCategory> BookCategories { get; set; }
 
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            //modelBuilder.Entity<Book>().HasData( new Book
+            //{
+            //    Title = "Sample Book", Price = 500
+
+            //});
+
+            //modelBuilder.Entity<Book>().ToTable("Book");
+
+
+        }
     }
+
 }
