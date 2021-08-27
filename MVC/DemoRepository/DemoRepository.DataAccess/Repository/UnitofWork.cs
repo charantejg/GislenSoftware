@@ -10,18 +10,19 @@ namespace DemoRepository.DataAccess.Repository
     public class UnitofWork : IUnitofWork
     {
         private readonly ApplicationDbContext _db;
-        public IBookRepository bookRepository { get; set; }
+        //public IBookRepository bookRepository { get; set; }
 
         public UnitofWork(ApplicationDbContext db)
         {
             _db = db;
-            bookRepository = new BookRepository(_db);
+           // bookRepository = new BookRepository(_db);
         }
         
 
         public void Dispose()
         {
             _db.Dispose();
+            
         }
 
         public void Save()

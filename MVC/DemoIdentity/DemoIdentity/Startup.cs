@@ -8,11 +8,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DemoRepository.DataAccess.Data;
-using DemoRepository.DataAccess.Repository;
+using DemoIdentity.Data;
+using DemoIdentity.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace DemoRepository
+namespace DemoIdentity
 {
     public class Startup
     {
@@ -28,12 +29,16 @@ namespace DemoRepository
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<ApplicationDbContext>
+                (options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
 
-            services.AddScoped<IUnitofWork, UnitofWork>();
-            services.AddScoped<IBookRepository, BookRepository>();
-
+            //services.AddSession(options =>
+            //{
+            //    options.Cookie.HttpOnly = true;
+            //    options.Cookie.IsEssential = true;
+            //    options.IdleTimeout = TimeSpan.FromHours(1);
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -53,8 +58,9 @@ namespace DemoRepository
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
+            //app.UseSession();
 
             app.UseEndpoints(endpoints =>
             {

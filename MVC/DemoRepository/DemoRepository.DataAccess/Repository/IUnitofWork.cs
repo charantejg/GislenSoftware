@@ -8,7 +8,7 @@ namespace DemoRepository.DataAccess.Repository
 {
   public interface IUnitofWork: IDisposable
   {
-      IBookRepository bookRepository { get; set; }
+     // IBookRepository bookRepository { get; set; }
       void Save();
   }
 

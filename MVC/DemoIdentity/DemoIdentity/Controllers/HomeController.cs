@@ -1,4 +1,4 @@
-﻿using DemoRepository.Models;
+﻿using DemoIdentity.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -6,30 +6,30 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using DemoRepository.DataAccess.Repository;
+using Microsoft.AspNetCore.Authorization;
 
-namespace DemoRepository.Web.Controllers
+namespace DemoIdentity.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly IUnitofWork _unitofWork;
-        private readonly IBookRepository _bookRepository;
 
-        public HomeController(ILogger<HomeController> logger, IUnitofWork unitofWork, IBookRepository bookRepository)
+        public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
-            _unitofWork = unitofWork;
-            _bookRepository = bookRepository;
         }
 
+        [Authorize]
         public IActionResult Index()
-        { 
+        {
+            TempData["message"] = "This is a sample temp data";
+
             return View();
         }
 
         public IActionResult Privacy()
         {
+            var test = Convert.ToString(TempData["message"]);
             return View();
         }
 
