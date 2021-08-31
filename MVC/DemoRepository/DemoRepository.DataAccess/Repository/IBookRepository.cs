@@ -7,7 +7,7 @@ using DemoRepository.Models;
 
 namespace DemoRepository.DataAccess.Repository
 {
-  public  interface IBookRepository
+  public  interface IBookRepository: IRepository<Book>
   {
 
       public void Update(Book book);

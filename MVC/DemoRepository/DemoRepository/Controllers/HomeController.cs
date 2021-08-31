@@ -24,7 +24,11 @@ namespace DemoRepository.Web.Controllers
         }
 
         public IActionResult Index()
-        { 
+        {
+            var books = _bookRepository.GetAll();
+
+           // var test = _unitofWork.Books.GetAll();
+            
             return View();
         }
 

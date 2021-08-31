@@ -11,5 +11,10 @@ namespace DemoRest.Controllers
     [ApiController]
     public class DemoController : ControllerBase
     {
+        [HttpGet]
+        public async Task<ActionResult> Get()
+        {
+
+        }
     }
 }

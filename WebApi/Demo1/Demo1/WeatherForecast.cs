@@ -1,6 +1,6 @@
 using System;
 
-namespace DemoRest
+namespace Demo1
 {
     public class WeatherForecast
     {
@@ -12,5 +12,4 @@ namespace DemoRest
 
         public string Summary { get; set; }
     }
-
 }
