@@ -14,21 +14,21 @@ namespace Demo1
         public static void Main(string[] args)
         {
 
-            var logger = NLog.Web.NLogBuilder.ConfigureNLog("NLog.config").GetCurrentClassLogger();
+           // var logger = NLog.Web.NLogBuilder.ConfigureNLog("NLog.config").GetCurrentClassLogger();
 
             try
             {
-                logger.Debug("Application started");
+              //  logger.Debug("Application started");
                 CreateHostBuilder(args).Build().Run();
             }
             catch (Exception e)
             {
-                logger.Error(e, "Application stopped due to an error");
+              //  logger.Error(e, "Application stopped due to an error");
                 throw;
             }
             finally
             {
-                NLog.LogManager.Shutdown();
+              //  NLog.LogManager.Shutdown();
             }
             
         }

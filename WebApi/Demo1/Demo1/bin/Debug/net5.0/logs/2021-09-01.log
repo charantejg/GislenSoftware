@@ -1,0 +1,13 @@
+2021-09-01 05:34:33.3369 DEBUG Application started
+2021-09-01 05:34:35.5771 INFO Application started. Press Ctrl+C to shut down.
+2021-09-01 05:34:35.5771 INFO Hosting environment: Development
+2021-09-01 05:34:35.5965 INFO Content root path: C:\Data\projects\learning\GislenSoftwareLiveCode\WebApi\Demo1\Demo1
+2021-09-01 05:34:42.6844 INFO Message 2
+2021-09-01 05:34:42.7270 ERROR Message 3
+2021-09-01 05:34:45.2396 INFO Message 2
+2021-09-01 05:34:45.2551 ERROR Message 3
+2021-09-01 05:38:13.0571 INFO Application started. Press Ctrl+C to shut down.
+2021-09-01 05:38:13.1198 INFO Hosting environment: Development
+2021-09-01 05:38:13.1497 INFO Content root path: C:\Data\projects\learning\GislenSoftwareLiveCode\WebApi\Demo1\Demo1
+2021-09-01 05:38:19.8352 INFO Message 2
+2021-09-01 05:38:19.8647 ERROR Message 3

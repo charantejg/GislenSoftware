@@ -11,6 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using NLog.Extensions.Logging;
 
 namespace Demo1
 {
@@ -41,6 +42,17 @@ namespace Demo1
 
                 o.AddPolicy("Specific", builder => builder.WithOrigins("https://gislen.com"));
             });
+
+            services.AddLogging((builder) =>
+            {
+                builder.SetMinimumLevel(LogLevel.Trace);
+                builder.AddNLog();
+                builder.AddConsole();
+
+
+            });
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using DemoRepository.DataAccess.Data;
@@ -21,10 +22,17 @@ namespace DemoRepository.DataAccess.Repository
             return _db.Set<T>().Find(id);
         }
 
+        //public async Task<T> Get(Expression<Func<T,bool>> expression, List<string> includes)
+        //{
+        //    IQueryable<T> query = _db; 
+
+        //}
+
         public IEnumerable<T> GetAll()
         {
             return _db.Set<T>().ToList();
         }
+
 
         public void Add(T entity)
         {
