@@ -1,0 +1,29 @@
+﻿@using Microsoft.Extensions.Options
+@using Microsoft.AspNetCore.Builder
+@using Microsoft.AspNetCore.Localization
+
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@inject IOptions<RequestLocalizationOptions> locOptions
+
+@{
+    var requestCulture = Context.Features.Get<IRequestCultureFeature>();
+    var cultureItems = locOptions.Value.SupportedCultures
+        .Select(c => new SelectListItem {Value = c.Name, Text = c.DisplayName})
+        .ToList();
+
+    var url = string.IsNullOrEmpty(Context.Request.Path) ? "~/" :
+        $"~{Context.Request.Path.Value}";
+
+
+}
+
+<form method="post" asp-controller="Home" asp-action="SetLanguage" 
+      asp-route-url="@url">
+    <label>Select: </label>
+    <select name="culture" onchange="this.form.submit();" 
+            asp-for="@requestCulture.RequestCulture.UICulture.Name"
+            asp-items="cultureItems"></select>
+</form>

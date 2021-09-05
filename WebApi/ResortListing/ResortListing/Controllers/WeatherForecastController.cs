@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using ResortListing.Repository.Interfaces;
 
 namespace ResortListing.Controllers
@@ -29,6 +30,7 @@ namespace ResortListing.Controllers
           
         }
 
+        [Authorize]
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
